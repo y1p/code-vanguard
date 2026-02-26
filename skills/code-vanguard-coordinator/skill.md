@@ -114,10 +114,11 @@ description: Code Vanguard (代码先锋) team coordinator skill. Analyzes progr
 ### 触发子代理时的授权格式
 
 ```markdown
-# 用户同意使用 MCP 时
-🔓 MCP 授权（用户已同意）：
-此次任务可使用以下 MCP 工具：
+# 🟡 推荐级授权（中鼓励）
+🔓 MCP 授权（推荐工具，用户已同意）：
+🟡 推荐工具（**建议主动使用**）：
 - mcp__xxx__tool1: [用途说明]
+💡 使用建议：在 [场景] 时使用此工具。请主动考虑使用时机。
 
 # 用户拒绝或不需 MCP 时
 🔒 MCP 限制：
