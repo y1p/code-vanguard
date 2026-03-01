@@ -43,18 +43,6 @@ agents/
 ```
 
 **安装位置**：
-```
-%USERPROFILE%\.claude\agents\
-├── code-vanguard-phoenix.md
-├── code-vanguard-viper.md
-├── code-vanguard-ghost.md
-└── code-vanguard-oracle.md
-```
-
-**操作**：
-1. 复制 `agents/` 目录下所有 `.md` 文件
-2. 粘贴到 `C:\Users\Mr.Chen\.claude\agents\` 目录
-3. 如需覆盖现有文件，请先备份
 
 ---
 
